@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="sunwin-batch">
+    <Output folder="/Volumes/cal_main/downloads/themes-icons-fonts/sunview-icons" filename="{Filename}" case="0" startIndex="1" format="XBM">
+        <Options overwrite="3" orgDate="false" keepMeta="false" keepICC="false" keepFolder="false" checkFilesize="false" keepParentFolder="false" keepExtension="false" delOrg="false" multipage="false" allPages="false" openExplorer="true" beep="true" openBrowser="false" clearItems="false"/>
+        <XBM/>
+    </Output>
+</XnView_script>
